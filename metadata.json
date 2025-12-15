@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Infinite Runner",
+  "description": "A high-octane infinite running game where the Gemini API generates unique level themes, physics, and visual styles based on your prompts.",
+  "requestFramePermissions": []
+}
